@@ -27,11 +27,14 @@ public class chocolatedemo {
         choco1.price=350.0;
         choco1.isDark=false;
 
+        Chocolate choco2 = new Chocolate();
+        choco2.brand="dairy milk";
+        choco2.flavor="milk";
+        choco2.price=400.0;
+        choco2.isDark=true;
+
       choco1.showDetails();
-      
-
-
-
+      choco2.showDetails();
     }
     
 }
