@@ -15,5 +15,6 @@ public class multiplynumbers {
         int result = a * b;        // Multiply the numbers
 
         System.out.println("Answer is: " + result); // Show result
+        input.close();
     }
 }
