@@ -6,7 +6,9 @@ import java.io.Serializable;
 
 public class SerializableDemo {
 
-    // Student class (inside same file)
+    // class student implements Serializable
+
+    // Student class 
     static class Student implements Serializable {
         private int roll;
         private String name;
@@ -25,7 +27,7 @@ public class SerializableDemo {
         }
     }
 
-    // main method
+    // main method to print output
     public static void main(String[] args) {
         try {
             Student s = new Student(101, "Ram");
