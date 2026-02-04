@@ -5,13 +5,13 @@ package day09_Encapsulation;
 public class AccountDemo {
 
     private double balance;
-    public void setbalance (double b) {
+    public void setBalance (double b) {
         balance = b;
 
     }
-    private double getbalance() {
+    double getBalance() {
         return balance;
-        
+
     }
     
 }
