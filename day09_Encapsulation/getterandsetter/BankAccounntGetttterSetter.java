@@ -1,6 +1,9 @@
 package day09_Encapsulation.getterandsetter;
 import java.util.Scanner;
 
+// Encapsulation example of bank account using getter and setter methods where user can input account number and balance and then display the details using getter methods.
+
+
 
 class Account {
 
