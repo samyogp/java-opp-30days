@@ -18,6 +18,6 @@ public class WriteOnlyDemo {
         Account acc = new Account();
 
         acc.setBalance(5000);  // allowed
-        // acc.getBalance();   // not allowed → compile error
+        // acc.getBalance();   
     }
 }

@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class SerializableDemo {
 
-    // class student implements Serializable
+
 
     // Student class 
     static class Student implements Serializable {
