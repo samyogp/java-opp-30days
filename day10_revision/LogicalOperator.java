@@ -1,0 +1,14 @@
+package day10_revision;
+
+public class LogicalOperator {
+
+    public static void main(String[] args) {
+        boolean p = false;
+        boolean q = true;
+        System.out.println("p && q: " + (p && q)); // false
+        System.out.println("p || q: " + (p || q)); // true
+        System.out.println("!p: " + !p); // true
+        System.out.println("!q: " + !q); // false
+    }
+    
+}
