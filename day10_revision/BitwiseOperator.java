@@ -11,8 +11,11 @@ public class BitwiseOperator {
         Y = A | B; // Output: 11 (1011 in binary)
         System.out.println(Y); // Output: 11 (1011 in binary)
         Y = A ^ B; // Output: 9 (1001 in binary)
-        System.out.println(Y);
-
+        System.out.println(Y); // Output: 9 (1001 in binary)
+      /*   Y = ~A;    // Output: -11 (in binary: ...11110101)
+        System.out.println(Y); // Output: -11 (in binary: ...11110101)
+        Y = A << 2; // Output: 40 (101000 in binary)    
+ */
 
 
     }
