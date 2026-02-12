@@ -7,6 +7,8 @@ class Animal {
         System.out.println("Animal Eats");
     }
 }
+
+// parent class
 class Dog extends Animal {
     void bark() {
         System.out.println("Dog barks");
@@ -14,14 +16,18 @@ class Dog extends Animal {
     }
 }
 
+// child class
+
 class Puppy extends Dog {
     void weep() {
         System.out.println("puppy weeps");
     }
 }
+
+// main classc
 public class AnimalDemo {
     public static void main(String[] args) {
-        Dog d = new Dog();
+        Dog D = new Dog();
         Puppy p = new Puppy();
         p.eat();
         p.bark();
