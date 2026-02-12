@@ -8,6 +8,8 @@ class Keyboard {
 
     }
 }
+
+// child class
 class Cow extends Keyboard {
     void sound() {
         System.out.println("cow eats grass");
@@ -15,12 +17,12 @@ class Cow extends Keyboard {
 
     }
 }
-
+ // main class
 public class SuperKeyboardDemo {
     public static void main(String[] args) {
         Cow c = new Cow();
         c.type();
         c.sound();
-        
+
     }
 }
