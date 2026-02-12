@@ -1,4 +1,5 @@
 package day10_revision;
+// logical operator example
 
 public class LogicalOperator {
 
