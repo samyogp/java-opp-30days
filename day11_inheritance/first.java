@@ -18,7 +18,7 @@ public class first {
     public static void main(String[] args) {
         Dog d = new Dog();
 
-        d.eat();   
+        d.eat();   // inherited method from animal class
         d.bark();  
     }
     }
