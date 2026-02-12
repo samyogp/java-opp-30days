@@ -19,7 +19,7 @@ public class first {
         Dog d = new Dog();
 
         d.eat();   // inherited method from animal class
-        d.bark();  
+        d.bark();  // method of Dog Class
     }
     }
 
