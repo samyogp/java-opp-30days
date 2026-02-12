@@ -7,8 +7,8 @@ public class LogicalOperator {
         boolean q = true;
         System.out.println("p && q: " + (p && q)); // false
         System.out.println("p || q: " + (p || q)); // true
-        System.out.println("!p: " + !p); // true
-        System.out.println("!q: " + !q); // false
+        System.out.println("!p: " + !p);
+        System.out.println("!q: " + !q); 
     }
     
 }
