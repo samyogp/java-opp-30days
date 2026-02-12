@@ -1,5 +1,6 @@
 package day11_inheritance;
 
+// single inheritance example
 // parent class
 
 class fruit {
