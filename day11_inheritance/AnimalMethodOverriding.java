@@ -13,6 +13,8 @@ class Dog extends Animal {
     }
 }
 
+// main class
+
 public class AnimalMethodOverriding {
     public static void main(String[] args) {
         Dog d = new Dog();
