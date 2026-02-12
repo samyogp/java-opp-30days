@@ -1,9 +1,13 @@
 package day11_inheritance;
+
+// parent class of person
 class Person {
     void walk() {
         System.out.println("person is walking");
     }
 }
+
+// child class of student
 
 class Student extends Person {
     void study() {
