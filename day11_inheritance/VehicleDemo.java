@@ -7,12 +7,14 @@ package day11_inheritance;
     }
     
 }
+// child class
 
 class car extends Vehicle {
     void drive() {
         System.out.println("car is driving");
     }
 }
+// main class
 
 public class VehicleDemo {
     public static void main(String[] args) {
