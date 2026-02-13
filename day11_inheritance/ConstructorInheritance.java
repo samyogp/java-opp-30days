@@ -37,7 +37,7 @@ class Student extends Person {
 
 
     } */
-
+   // main class
         public class ConstructorInheritance {
             public static void main(String[] args) {
                 Boy b = new Boy();
