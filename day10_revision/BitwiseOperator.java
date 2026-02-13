@@ -36,5 +36,9 @@ public static void main(String[] args) {
   Y = ~A;    // Output: -21 (in binary: ...11101011)
   System.out.println(Y);
   Y = A << 2; // Output: 80 (01010000 in binary)
+  System.out.println(Y);
+  Y = A >> 2; // Output: 5 (00000101 in binary)
+  System.out.println(Y);
+}
 }
  
