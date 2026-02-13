@@ -16,7 +16,7 @@ class Student extends Person {
 
     }
 } */
-
+  // parent class
     class Man {
         Man() {
             System.out.println("Man Constructor");
