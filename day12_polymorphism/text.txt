@@ -1,0 +1,23 @@
+What Is Polymorphism in Java?
+
+Polymorphism means “many forms.”
+
+In Java, it allows the same method name to behave differently depending on the object.
+
+It is one of the 4 main OOP concepts:
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+🔹 Types of Polymorphism in Java
+
+Java supports two types:
+
+Compile-time Polymorphism (Method Overloading)
+
+Runtime Polymorphism (Method Overriding)
