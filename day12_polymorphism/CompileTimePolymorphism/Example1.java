@@ -16,7 +16,7 @@ public class Example1 {
     int add(int a, int b, int c) {
         return a+ b + c;
     }
-
+  // main method to test the method overloading
     public static void main(String[] args) {
         Example1 obj = new Example1();
         System.out.println(obj.add(2, 3));
