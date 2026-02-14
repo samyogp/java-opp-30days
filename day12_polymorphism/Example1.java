@@ -12,7 +12,7 @@ class Dog extends Animal {
     }
 }
 
-
+// main class to test the runtime polymorphism
 public class Example1 {
     public static void main(String[] args) {
          Animal a = new Dog();
