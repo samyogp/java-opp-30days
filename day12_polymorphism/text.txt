@@ -14,7 +14,7 @@ Polymorphism
 
 Abstraction
 
-🔹 Types of Polymorphism in Java
+ Types of Polymorphism in Java
 
 Java supports two types:
 
