@@ -11,7 +11,7 @@ class Circle extends Shape {
         System.out.println("Drawing Circle");
     }
 }
-
+// main method
 public class Test2 {
     public static void main(String[] args) {
         Shape s = new Circle();
