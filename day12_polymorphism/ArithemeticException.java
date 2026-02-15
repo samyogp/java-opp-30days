@@ -1,5 +1,7 @@
 package day12_polymorphism;
 
+
+// Arithmetic Exception Example
 public class ArithemeticException {
     public static void main(String[] args) {
         int a = 10;
